@@ -1,2 +1,2 @@
 # splash
-My first and only one project xD
+My first and only one project from Java xD
